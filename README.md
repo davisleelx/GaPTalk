@@ -21,10 +21,13 @@ Video reconstruction from origin audio:
 https://github.com/user-attachments/assets/936c9c70-f4ee-40f5-86d9-f09bc7ac1801
 
 ## Dataset
-Our datasets come from HDTF
+Our datasets mainly come from [HDTF](https://github.com/MRzzm/HDTF)
 
 ## Project
 
 We have released the training code for Step2:controllable 3D Gaussian Rendering and Step3 Head-body-Reenactment.
-Code for STEP 1:contextual audio-to-expression and dataset  will be released shortly. Our code is for research purposes only.
+Code for Step 1:contextual audio-to-expression and dataset preprocessing will be released shortly. 
+Our code is for research purposes only.
 
+## Acknowledgment
+Thanks the authors of [Deformable-3D-Gaussians](https://github.com/ingra14m/Deformable-3D-Gaussians), [CodeTalker](https://github.com/Doubiiu/CodeTalker) for making their excellent work and codes publicly available.
